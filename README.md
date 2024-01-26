@@ -7,7 +7,7 @@
   
 [![JINILEEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINILEEE&theme=highcontrast&show_icons=true)](https://github.com/JINILEEE/github-readme-stats)
 
-<h1>✨Front-end Stack✨</h1>
+<h2>✨Front-end Stack✨</h2>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -16,13 +16,13 @@
 
 
 
-<h1>✨Back-end Stack✨</h1>
+<h2>✨Back-end Stack✨</h2>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
 
 
-<h1>✨Tools✨</h1>
+<h2>✨Tools✨</h2>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
