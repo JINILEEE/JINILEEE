@@ -7,7 +7,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINILEEE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>✨Front-end Stack✨</h1>
-<hr />
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <br />
