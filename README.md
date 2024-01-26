@@ -3,10 +3,9 @@
 <hr /> 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINILEEE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 [![JINILEEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINILEEE&theme=highcontrast&show_icons=true)](https://github.com/JINILEEE/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINILEEE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>✨Front-end Stack✨</h1>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
