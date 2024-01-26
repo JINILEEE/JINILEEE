@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0A1D56&text=MIJIN'S%20GITHUB&fontColor=eeee" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=200&color=eeeee&text=MIJIN'S%20GITHUB&fontColor=00000&reversal=false" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINILEEE&show_icons=true&theme=highcontrast)
 
