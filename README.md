@@ -4,6 +4,7 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINILEEE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![JINILEEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINILEEE&theme=highcontrast&show_icons=true)](https://github.com/JINILEEE/github-readme-stats)
 
 <h2>Skills</h2>
