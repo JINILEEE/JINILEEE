@@ -36,7 +36,7 @@
 <h3>✨Servers✨</h3>
 <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
-<h3>✨Systme✨</h3>
+<h3>✨System✨</h3>
 <img src="https://img.shields.io/badge/windows11-0078D4?style=for-the-badge&logo=windows11&logoColor=white">
 <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white">
 
