@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=MIJIN'S%20GITHUB👋" />
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=MIJIN'S%20GITHUB✨&fontColor=000000" />
 <hr /> 
 <br />
